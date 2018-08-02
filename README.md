@@ -1,2 +1,5 @@
 # Mods-for-Minetest
-A bunch of mods that I made
+A collection of mods that I made for Minetest
+
+## Letterblocks
+Adds a printable blocks with letters and numbers on them
