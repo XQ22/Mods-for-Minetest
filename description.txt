@@ -1,1 +1,0 @@
-A mod that adds letters, numbers, and other characters on printable blocks to Minetest.
