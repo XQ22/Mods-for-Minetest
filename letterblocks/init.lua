@@ -38,7 +38,7 @@ until counter == #symbols
 
 minetest.register_node("letterblocks:quesn", {
     description = "Symbol Block",
-    tiles = {numbers[counter].."-n.png"},
+    tiles = {"ques-n.png"},
     is_ground_content = false,
     groups = {snappy=3, stone=1},
 	drop = "default:mese"
